@@ -3,7 +3,7 @@
   </br>
 
 
-<img align="right" src="https://media0.giphy.com/media/ZG719ozZxGuThHBckn/200w.webp?cid=ecf05e47q2xatizc7c66m4nt6fs4e3oxvmh0zn8e004uaed9&rid=200w.webp&ct=g" width="200" height="200"/>
+<img align="right" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" height="200"/>
 </br></br></br>
 
 
@@ -50,8 +50,6 @@
   <p align="center">
    
   <a href="https://www.linkedin.com/in/singh-archana" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
-<a href="mailto:abhiarchana14@gmail.com" alt="Contact me" margin-left = "10"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
-   
-  </p>
+</p>
 
 

@@ -3,12 +3,8 @@
   </br>
 
 
-<img align="right" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" height="200"/>
+<img align="right" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="200"/>
 </br></br></br>
-
-
-
-
 
 
 

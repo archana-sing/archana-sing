@@ -1,14 +1,8 @@
 
 ### <h2>नमस्ते (Namaste)🙏🏻, I'm Archana!
   </br>
-
-
 <img align="right" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="200"/>
 </br></br></br>
-
-
-
-
 ### About me:
 
 - 🔭 I’m currently persuing **full stack web developer course at Masai**.

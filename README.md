@@ -3,8 +3,11 @@
   </br>
 
 
-<img align="right" src="https://media0.giphy.com/media/ZG719ozZxGuThHBckn/200w.webp?cid=ecf05e47q2xatizc7c66m4nt6fs4e3oxvmh0zn8e004uaed9&rid=200w.webp&ct=g" width="100" height="100"/>
+<img align="right" src="https://media0.giphy.com/media/ZG719ozZxGuThHBckn/200w.webp?cid=ecf05e47q2xatizc7c66m4nt6fs4e3oxvmh0zn8e004uaed9&rid=200w.webp&ct=g" width="200" height="200"/>
 </br></br></br>
+
+
+
 
 
 
@@ -12,10 +15,9 @@
 
 ### About me:
 
-- 🔭 I’m currently persuing full stack web developer course at Masai.
-- 🌱 I’m currently learning **Open Source Contribution.**
+- 🔭 I’m currently persuing **full stack web developer course at Masai**.
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
-- 🤔 I’m looking for help full stack web developer role.
+- 🤔 I’m looking for **full stack web developer role**.
 - 😄 Pronouns: she/her
 
 
@@ -43,12 +45,12 @@
 
 
 <p align="left">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+  <i>Let's connect and chat!</i>
 
   <p align="center">
    
   <a href="https://www.linkedin.com/in/singh-archana" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
-<a href="mailto:abhiarchana14@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
+<a href="mailto:abhiarchana14@gmail.com" alt="Contact me" margin-left = "10"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
    
   </p>
 

@@ -3,8 +3,11 @@
   </br>
 
 
-<img align="right" src="https://media3.giphy.com/media/ekjmhJUGHJm7FC4Juo/200w.webp?cid=ecf05e473edq9riia6vbehxm6nhm25z6ayiazz42eyiez1a9&rid=200w.webp&ct=g" width="200" height="200"/>
+<img align="right" src="https://media0.giphy.com/media/ZG719ozZxGuThHBckn/200w.webp?cid=ecf05e47q2xatizc7c66m4nt6fs4e3oxvmh0zn8e004uaed9&rid=200w.webp&ct=g" width="100" height="100"/>
 </br></br></br>
+
+
+
 
 
 ### About me:
@@ -39,7 +42,7 @@
 </br></br></br></br>
 
 
-<p align="center">
+<p align="left">
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">

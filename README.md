@@ -15,8 +15,10 @@
 
 # *I am willing to collaborate as a team player building better code.*
 
+<p align = "center">
 
-[![Archana's GitHub stats](https://github-readme-stats.vercel.app/api?username=archana-sing)]
+![Archana's github stats](https://github-readme-stats.vercel.app/api?username=archana-sing)
+  </p>
 
 
 ### I know more about- 

@@ -16,6 +16,9 @@
 # *I am willing to collaborate as a team player building better code.*
 
 
+[![Archana's GitHub stats](https://github-readme-stats.vercel.app/api?username=archana-sing)]
+
+
 ### I know more about- 
 
 ![HTML5](https://img.shields.io/badge/html-HTML5-yellow)
